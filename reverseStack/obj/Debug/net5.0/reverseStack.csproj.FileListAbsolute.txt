@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/reverseStack.deps.json
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/reverseStack.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/reverseStack.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/reverseStack.dll
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/ref/reverseStack.dll
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/bin/Debug/net5.0/reverseStack.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.dll
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/ref/reverseStack.dll
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/reverseStack/obj/Debug/net5.0/reverseStack.genruntimeconfig.cache

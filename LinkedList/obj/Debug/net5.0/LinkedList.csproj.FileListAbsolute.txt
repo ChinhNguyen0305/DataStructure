@@ -1,0 +1,15 @@
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.csproj.AssemblyReference.cache
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfoInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.AssemblyInfo.cs
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/LinkedList.deps.json
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.json
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/LinkedList.runtimeconfig.dev.json
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/LinkedList.dll
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/ref/LinkedList.dll
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/bin/Debug/net5.0/LinkedList.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.dll
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/ref/LinkedList.dll
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.pdb
+/Users/vohuunhatduc/Desktop/DataStructure/LinkedList/obj/Debug/net5.0/LinkedList.genruntimeconfig.cache
